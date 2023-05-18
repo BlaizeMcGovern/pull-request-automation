@@ -35,7 +35,7 @@ This Python program automates the process of opening pull requests on GitHub rep
 
    pip install -r requirements.txt
 
-   This will install the necessary dependencies, including `paramiko`.
+   This will install the necessary dependencies, including `PyGithub`.
 
 ### Create .env file
 
